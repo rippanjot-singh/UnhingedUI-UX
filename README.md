@@ -69,6 +69,63 @@ graph TD
 
 ---
 
+## 📊 2.5 Satirical Flowcharts & User Emotional Decay Matrices
+
+To give the Sheryians event judges a highly humorous look behind the scenes, these flowcharts visualize the administrative algorithms and the psychological journey of a typical user attempting to interact with the portal:
+
+### 🦅 Govvy the Eagle's Administrative Trap Decision Tree
+This state machine controls how Govvy processed citizen click requests, showing the recursive logic loops designed to prevent compliance:
+
+```mermaid
+graph TD
+    %% Satirical Government Logic Flowchart
+    subgraph Govvy the Eagle's Satirical Logic Engine
+        Start[User tries to perform ANY action] --> Hover[Hover near a critical button]
+        Hover --> SlipCheck{Does the button feel like wiggling?}
+        SlipCheck -- Yes --> Flee[Button leaps randomly across viewport!]
+        Flee --> IncSpawn[Spawn 2 additional Win98 advertisement popups]
+        IncSpawn --> Hover
+        SlipCheck -- No, fatigued --> Click[User successfully registers a click]
+        
+        Click --> Captcha{Solve Cursed 3-Step CAPTCHA?}
+        Captcha -- No response in 7s --> Reset[Time Compression Drift Reset back to Stage 1]
+        Reset --> Lockout[30-second Security Lockout: Ask 'Is water wet?']
+        Lockout --> Start
+        Captcha -- Yes, solved --> Step3{Step 3 Reverse Input Active?}
+        Step3 -- Yes --> RevInput[Type 'abc' -> Registers 'cba']
+        RevInput --> TimerCompress[Subtract 3 seconds from clock just because]
+        TimerCompress --> Start
+        
+        Click -- Dismiss Warning --> PayCheck{Cardholder Name = 'SHERYIANS'?}
+        PayCheck -- No --> Decline[Decline: Insufficient Patriotic Credits - CPC]
+        Decline --> FleeExit[Slippery 'Continue Unprotected' button flies away]
+        FleeExit --> BSOD[Trigger BSOD Simulator & full browser reload]
+        BSOD --> Start
+        PayCheck -- Yes --> Approved[Sponsorship Approved: Close modal and sanitise registry!]
+    end
+```
+
+### 📈 The Citizen Emotional Decay State Machine
+This captures the psychological stages of a developer or judge as they navigate through the administrative roadblocks:
+
+```mermaid
+graph LR
+    %% Citizen Emotional Decay State Machine
+    subgraph Citizen Emotional Decay State Machine
+        State0[1. Calm & Confident] -->|Sees retro layout| State1[2. Slightly Amused]
+        State1 -->|Popups start multiplying| State2[3. Minor Annoyance]
+        State2 -->|Hover button wiggles away| State3[4. Kinetic Confusion]
+        State3 -->|Math CAPTCHA resets at Stage 3| State4[5. Deep Frustration]
+        State4 -->|Trojan Warning triggers BSOD| State5[6. Existential Dread]
+        State5 -->|BSOD reloads the page| State0
+        
+        State4 -->|Clicks 'I Lost, You Win' Surrender| State6[7. Absolute Defeat]
+        State6 -->|Taps 'sheryians' keyboard cheat| State7[8. Transcendental Satori & Joy]
+    end
+```
+
+---
+
 ## 🛠️ 3. Component Breakdown & Engineering Deep-Dive
 
 ### 📂 [CursedLayout.jsx](file:///c:/Users/Waheguru/Documents/CODING/Cohort%202.0/projects/unhinged_ui/client/src/components/CursedLayout.jsx) — The Central Nervous System
