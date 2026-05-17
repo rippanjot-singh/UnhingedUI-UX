@@ -47,5 +47,3 @@ These easter eggs trigger complete physical UI/UX overhauls, custom-styled dialo
 4. **Behold:** The system authorizes the checkout instantly, congratulating you on the sponsored license!
 
 ---
-
-> **Note to Judges:** All audio cues are procedurally generated in real-time using the **Web Audio API** oscillator notes—no external audio assets are downloaded, making this project completely offline-ready and lightweight!
