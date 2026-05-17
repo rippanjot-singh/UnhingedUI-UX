@@ -128,6 +128,22 @@ graph LR
 
 ## 🛠️ 3. Component Breakdown & Engineering Deep-Dive
 
+```
++-------------------------------------------------------------------------+
+| [X] SYSTEM FATAL FAILURE: CITIZEN PATIENCE OVERFLOW                     |
++-------------------------------------------------------------------------+
+|                                                                         |
+|  (X) An exception of type "CognitiveOverloadException" has occurred     |
+|      in CursedLayout.jsx at thread 0x00004721.                          |
+|                                                                         |
+|      * Press [Esc] to return unprotected (slippery button active).      |
+|      * Press [Space] to solve 3-step CAPTCHA in 7 seconds.              |
+|      * Type "harsh" to bypass the government registry block.            |
+|                                                                         |
+|                        [  OK  ]      [ Cancel ]                         |
++-------------------------------------------------------------------------+
+```
+
 ### 📂 [CursedLayout.jsx](file:///c:/Users/Waheguru/Documents/CODING/Cohort%202.0/projects/unhinged_ui/client/src/components/CursedLayout.jsx) — The Central Nervous System
 This is the root container wrapping all pages. It controls the master intervals, adware popups state machines, mouse coordinate telemetry, global audio triggers, and the Easter Egg keystroke buffers.
 
@@ -217,12 +233,39 @@ To give the Sheryians event judges an elite and memorable experience, we develop
     > *"Bhailog, ye kya ganda UI/UX banaya hai! Isko to main bypass hi kar deta hu!"*
     Complete with an outset golden button: **`🦁 Dhanyawad Harsh Sir! (Bypass Now)`**.
 
+```
+   +----------------------------------------------------------+
+  /|  🦁 HARSH SIR CODE CRITIQUE ENGINE v19.97               |
+ / |----------------------------------------------------------|
+*  |                                                          |
+|  |  "Bhailog, ye kya ganda UI/UX banaya hai!                |
+|  |   Isko to main bypass hi kar deta hu!"                   |
+|  |                                                          |
+|  |  Status: [✓] CAPTCHAs Authorised  [✓] Virus Dismissed    |
+|  |                                                          |
+|  |                [ Dhanyawad Harsh Sir! ]                  |
+|  +----------------------------------------------------------+
++-------------------------------------------------------------+
+```
+
 ### 3. 🎨 `"sarthak"` — Sarthak Sir Animation Matrix
 * **Trigger:** Type `sarthak` on your keyboard anywhere on the screen.
 * **Acoustic Cue:** Procedural floppy seek motor sound effects.
 * **Interactive Impact:**
   * **Visual Overhaul:** The entire page wrapper triggers a smooth CSS ease-in-out **360-degree rotation animation**, before settling at a **2.5-degree skew** for peak geometric confusion.
   * **Comic Sans Takeover:** Every single paragraph, input box, table element, sidebar link, and button on the entire portal instantly shifts to **Comic Sans MS** with glowing orange text shadows!
+
+```
+    /=========================================================\
+   /  Sarthak Sir Style Audit: Comic Sans MS Fonts Activated  /
+  /=========================================================/
+ /  [!] CSS Rotation Matrix Skew has been set to 2.5 deg.  /
+/_________________________________________________________/
+          \
+           \   __
+            \ (oO)  *Creative frontend designer blink*
+              \==/
+```
 
 ### 💳 4. `"SHERYIANS"` — Cardholder Sponsorship Bypass
 * **Trigger:** Enter `SHERYIANS` as the Cardholder Name during Step 3 checkout of the PC VirusShield quarantine warning.
@@ -345,6 +388,15 @@ npm run dev
 Open your browser at [http://localhost:5173](http://localhost:5173).
 
 ---
+
+```
+      _ _
+     (o|o)   *Govvy the Eagle is satisfied*
+     // \ \  *Compliance token granted*
+    //===//  *Goodbye citizen!*
+      ||
+      ||
+```
 
 ## 🤝 Acknowledgements
 Special thanks to **Sheryians Coding School**, Harsh Vandana Sharma Sir, and Sarthak Sir for organizing this incredible challenge, pushing students to think outside of standard design templates, and reminding us that sometimes, building the worst possible code takes the highest amount of creative effort! 
