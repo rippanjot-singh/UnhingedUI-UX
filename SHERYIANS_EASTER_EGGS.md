@@ -1,5 +1,20 @@
 # 🦁 SHERYIANS CODING SCHOOL — EASTER EGGS & CHEAT CODES MANUAL 🦁
 
+```
+ _____________________________________________________________________________
+/                                                                             \
+|   [!] WARNING: CITIZEN ADMINISTRATIVE COMPLIANCE NODE ACTIVED             |
+|                                                                             |
+|   This terminal is monitored by Govvy the Eagle. Please ensure you have     |
+|   your 14-page physical tax certificate and 3 valid CAPTCHA tokens ready.    |
+\_____________________________________________________________________________/
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
+
 > **Project Event:** Sheryians Worst UI/UX Design Challenge
 > **Theme:** Intentionally painful, chaotic, and frustrating government retro portal.
 > **Cheat Status:** fully armed & operational 🚀
@@ -14,6 +29,25 @@ These easter eggs trigger complete physical UI/UX overhauls, custom-styled dialo
 ---
 
 ## 🕹️ Interactive Easter Eggs Catalog
+
+```
+  ___________________________________
+ /                                   \
+|   _______________________________   |
+|  |                               |  |
+|  |    🦁 SHERYIANS BYPASS 🦁     |  |
+|  |    1.44MB developer diskette  |  |
+|  |_______________________________|  |
+|                                     |
+|             _                       |
+|            | |  [ ] WRITE-PROTECT   |
+|   _________|_|__________            |
+|  |                      |           |
+|  |    [||||||||||||]    |           |
+|  |    Metal shutter     |           |
+|  |______________________|           |
+ \___________________________________/
+```
 
 | Code Name | Trigger Method | Interactive Impact & Sound Fanfare | Physical UI Overhaul |
 | :--- | :--- | :--- | :--- |
@@ -47,3 +81,56 @@ These easter eggs trigger complete physical UI/UX overhauls, custom-styled dialo
 4. **Behold:** The system authorizes the checkout instantly, congratulating you on the sponsored license!
 
 ---
+
+## 🌟 CORE CURSED UI/UX MECHANISMS & WORKAROUNDS
+
+```
+ __________________________________________________________________
+/  [X] CRITICAL SYSTEM COMPLIANCE INTERRUPT                        \
+|==================================================================|
+|  [!] A dangerous citizen exception occurred at node 0xDEADBEEF.  |
+|                                                                  |
+|  * The cursor is actively trying to click unprotected.           |
+|  * Insufficient citizen patriotic credits (CPC).                 |
+|  * Your math homework CAPTCHA remains unsolved.                  |
+|                                                                  |
+|               [ Continue Compliance ]      [ Panic ]             |
+\__________________________________________________________________/
+```
+
+Apart from the co-founder easter eggs, the portal contains a variety of custom-engineered frustrating mechanisms built to challenge the user's patience, along with intuitive fatigue-bypass options:
+
+### 🏃‍♂️ 1. Slippery Button Fatigue System
+* **Mechanic:** The warning buttons (like **Continue Unprotected** and **Destroy Registry Nodes**) are cursed with slipperiness. When you hover your cursor near them, they instantly jump to random screen coordinates!
+* **Workaround:** To avoid an infinite loop of chasing buttons, we engineered a **Button Fatigue System**. After a button flees exactly **3 times**, it becomes "exhausted," swaps its label to a tired complaint (e.g., *"(Ugh, fine...)"* or *"(Tired, click me)"*), and sits perfectly still to allow clicking!
+
+### 🖱️ 2. Win98 Interactive Window Dragging
+* **Mechanic:** Popups and banner ads explode onto the screen recursively to clutter the viewport.
+* **Workaround:** We built a custom HTML5 **mouse drag-and-drop listener** onto the `.titlebar` of every single sprouted warning modal. Users can click and drag spam windows around to stack, organize, or park them out of the way!
+
+### 🏳️ 3. Sidebar Surrender & Chaos Reactivation
+* **Mechanic:** The chaos level can become extremely intense.
+* **Workaround:** The left navigation sidebar contains active state toggles:
+  * Click **🏳️ I Lost, You Win - Remove All Popups** to yield. This instantly clears all active adware intervals and dismisses current alarms.
+  * Click **🔥 Restore Chaos Mode** to instantly spin all tracking interval loops back on!
+
+### 💾 4. Session Storage BSOD Persistence Check
+* **Mechanic:** When the virus alert triggers step 5 (Blue Screen of Death), it triggers a full browser reload.
+* **Workaround:** To prevent a frustrating infinite reload loop, the app stores `'virus_shown' = '1'` in the browser's `sessionStorage` right before re-triggering, allowing a clean escape on subsequent portal sessions!
+
+```
+            .-""-.
+           / _  _ \
+           |(_)(_)|
+           (_    _)
+          .-'  `'-.
+         /          \      --- "SOLVE THE CAPTCHA OR
+        |            |          GOVVY WILL SCRUB YOUR REGISTRY!"
+        |  \      /  |
+         \  '----'  /
+          '-.____.-'
+```
+
+---
+
+> **Note to Judges:** All audio cues are procedurally generated in real-time using the **Web Audio API** oscillator notes—no external audio assets are downloaded, making this project completely offline-ready and lightweight!
